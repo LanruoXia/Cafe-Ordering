@@ -1,0 +1,16 @@
+debug/admin.o
+debug/customer.o
+debug/databaseconnection.o
+debug/itemcell.o
+debug/main.o
+debug/mainwindow.o
+debug/menucell.o
+debug/registration.o
+debug/qrc_resource.o
+debug/moc_admin.o
+debug/moc_customer.o
+debug/moc_databaseconnection.o
+debug/moc_itemcell.o
+debug/moc_mainwindow.o
+debug/moc_menucell.o
+debug/moc_registration.o
